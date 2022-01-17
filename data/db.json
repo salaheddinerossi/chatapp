@@ -1,0 +1,151 @@
+{
+    "accounts" : [
+        {
+            "id" : "1",
+            "name" : "name 1",
+            "messages" : [
+                {
+                    "id" : "1",
+                    "text" : "Hello",
+                    "type" : "received",
+                    "timestamp" : "15:00"
+                },
+                {
+                    "id" : "2",
+                    "text" : "How are you?",
+                    "type" : "sent",
+                    "timestamp" : "15:01"
+                },
+                {
+                    "id" : "3",
+                    "text" : "I'm fine",
+                    "type" : "received",
+                    "timestamp" : "15:02"
+                },
+                {
+                    "id" : "4",
+                    "text" : "Me too",
+                    "type" : "sent",
+                    "timestamp" : "15:03"
+                },
+                {
+                    "id" : "5",
+                    "text" : "What's up?",
+                    "type" : "received",
+                    "timestamp" : "15:04"
+                },
+                {
+                    "id" : "6",
+                    "text" : "Nothing",
+                    "type" : "sent",
+                    "timestamp" : "15:05"
+                },
+                {
+                    "id" : "7",
+                    "text" : "Are you coming?",
+                    "type" : "received",
+                    "timestamp" : "15:06"
+                },
+                {
+                    "id" : "8",
+                    "text" : "Yes, I'm coming",
+                    "type" : "sent",
+                    "timestamp" : "15:07"
+                },
+                {
+                    "id" : "9",
+                    "text" : "What time?",
+                    "type" : "received",
+                    "timestamp" : "15:08"
+                },
+                {
+                    "id" : "10",
+                    "text" : "15:30",
+                    "type" : "sent",
+
+                    "timestamp" : "15:09"
+                    
+                },
+                {
+                    "id" : "11",
+                    "text" : "Ok, see you there",
+                    "type" : "received",
+                    "timestamp" : "15:09"
+                }
+            ]
+        },
+        {
+            "id" : "2",
+            "name" : "name 2",
+            "messages" : [
+                {
+                    "id" : "1",
+                    "text" : "Hello 2",
+                    "type" : "received",
+                    "timestamp" : "15:00"
+                },
+                {
+                    "id" : "2",
+                    "text" : "How are you? 2",
+                    "type" : "sent",
+                    "timestamp" : "15:01"
+                },
+                {
+                    "id" : "3",
+                    "text" : "I'm fine  2",
+                    "type" : "received",
+                    "timestamp" : "15:02"
+                },
+                {
+                    "id" : "4",
+                    "text" : "Me too",
+                    "type" : "sent",
+                    "timestamp" : "15:03"
+                },
+                {
+                    "id" : "5",
+                    "text" : "What's up?",
+                    "type" : "received",
+                    "timestamp" : "15:04"
+                },
+                {
+                    "id" : "6",
+                    "text" : "Nothing",
+                    "type" : "sent",
+                    "timestamp" : "15:05"
+                },
+                {
+                    "id" : "7",
+                    "text" : "Are you coming?",
+                    "type" : "received",
+                    "timestamp" : "15:06"
+                },
+                {
+                    "id" : "8",
+                    "text" : "Yes, I'm coming",
+                    "type" : "sent",
+                    "timestamp" : "15:07"
+                },
+                {
+                    "id" : "9",
+                    "text" : "What time?",
+                    "type" : "received",
+                    "timestamp" : "15:08"
+                },
+                {
+                    "id" : "10",
+                    "text" : "15:30" ,
+                    "type" : "sent",
+                    "timestamp" : "15:09"
+                },
+                {
+                    "id" : "11",
+                    "text" : "Ok, see you there",
+                    "type" : "received",
+                    "timestamp" : "15:09"
+                    
+                }
+            ]
+        }
+    ]
+}
